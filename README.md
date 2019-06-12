@@ -1,0 +1,2 @@
+# ZJPlayerAndReader
+集成XTPlayer与FolioReaderKit的一个开源项目
